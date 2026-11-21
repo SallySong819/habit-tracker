@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Habit Tracker",
+  "short_name": "Habit",
+  "description": "A personal habit tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
